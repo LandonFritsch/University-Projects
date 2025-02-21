@@ -10,5 +10,6 @@ Feel free to explore each folder for project details, code, and documentation.
 - Java, Kotlin
 
 ## 📫 Contact:
-- [LinkedIn](https://linkedin.com/in/LandonFritsch)
-- [Email](mailto:fritschlandon@yahoo.com)
+- Email: [fritschlandon@yahoo.com](mailto:fritschlandon@yahoo.com)
+- LinkedIn: [linkedin.com/in/LandonFritsch](https://www.linkedin.com/in/landon-fritsch)
+- Cell Phone Number: 812-525-8302
